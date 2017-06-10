@@ -1,1 +1,1 @@
-# How to use GoogleMap : README.md
+# How to use GoogleMap
